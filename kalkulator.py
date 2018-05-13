@@ -5,7 +5,9 @@ def dodaj ():
 	
 	
 def get_help():
-		pass
+		print ("to jest prosty kalk")
+		print ("podaj dwie liczby")
 	
 	
+get_help()
 dodaj()
