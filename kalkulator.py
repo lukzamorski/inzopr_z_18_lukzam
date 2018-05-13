@@ -1,7 +1,6 @@
 def dodaj (a, b):
-	a = input()
-	b = input()
-	print (int(a) +int(b)))
+
+	return a+b
 	
 	
 	
@@ -10,4 +9,4 @@ def dodaj (a, b):
 x = int(input())	
 y - int(input())
 	
-dodaj(x, y)
+print(dodaj(x, y))
