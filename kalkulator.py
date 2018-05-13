@@ -10,4 +10,4 @@ def dodaj (a, b):
 x = int(input())	
 y - int(input())
 	
-dodaj()
+dodaj(x, y)
