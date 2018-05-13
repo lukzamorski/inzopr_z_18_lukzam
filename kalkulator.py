@@ -1,13 +1,19 @@
-def dodaj ():
-	a = input()
-	b = input()
-	print (int(a) +int(b)))
+def dodaj (a, b):
+
+	return a+b
 	
 	
+
 def get_help():
 		print ("to jest prosty kalk")
 		print ("podaj dwie liczby")
 	
 	
 get_help()
-dodaj()
+
+x = int(input())	
+y - int(input())
+	
+	
+print(dodaj(x, y))
+
